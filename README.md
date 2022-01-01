@@ -24,7 +24,7 @@ Stacks I've worked on:  ReactJs,VueJs, NodeJs, NextJs, Mongodb, TypeScript, MySQ
 <br/>
 </p>
 
-  <img align="right" alt="GIF" src="https://imgur.com/1lg5hbD" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/fAykJdJ6SYSYw/giphy.gif" />
   
 ### ✨ Quick Facts
 
