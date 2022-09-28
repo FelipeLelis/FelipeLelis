@@ -38,6 +38,7 @@ Stacks I've worked on:  ReactJs,VueJs, NodeJs, NextJs, Mongodb, TypeScript, MySQ
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Solidity](https://img.shields.io/badge/-solidity-black?style=flat-square&logo=solidity)
+![BlockChain](https://img.shields.io/badge/-blockchain-black?style=flat-square&logo=blockchain)
 ![Web3js](https://img.shields.io/badge/-web3js-black?style=flat-square&logo=web3js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
