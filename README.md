@@ -28,11 +28,11 @@ Stacks I've worked on:  ReactJs,VueJs, NodeJs, Solidity, Web3js, NextJs, Mongodb
   
 ### ✨ Quick Facts
 
-- 🌱 I’m currently learning Flutter, DevOps, AWS Cloud Architect
+- 🌱 I’m currently learning BlockChain, Solidity, WEb3, AWS Cloud Architect and much more!
 - 💬 Ask me about anything related to JS, React, Redux, Node.(After googling it 😜😌)
 - ⚡️ Fun-Fact: I sleep at 6am 🙃
-- 🎿 Hobbies other than coding : Learning Machine Learning 😜, play games, sports and read some books 🤔🤖..
-- 📫 How to reach me: felipesrlgo@gmail.com
+- 🎿 Hobbies other than coding : Learning Machine Learning / Blockchain 😜, play games, sports and read some books 🤔🤖..
+- 📫 How to reach me: felipesrlgo@outlook.com
 
 ### 🛠️ Languages and Tools:
 
