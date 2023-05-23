@@ -20,7 +20,7 @@
 <p>
 Hi, I'm a Software Engineer who is very fond of JavaScript and Python.
 <br/>
-Stacks I've worked on:  ReactJs,VueJs, NodeJs, Solidity, Web3js, NextJs, Mongodb, TypeScript, MySQL, Tailwind, MUI, BootStrap, Jest, Mocha ...
+Stacks I've worked on:  ReactJs,VueJs, NodeJs, Python, Go, Java, Solidity, Web3js, NextJs, Mongodb, TypeScript, MySQL, Tailwind, MUI, BootStrap, Jest, Mocha ...
 <br/>
 </p>
 
